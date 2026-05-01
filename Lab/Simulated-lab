@@ -1,0 +1,66 @@
+#  Basic Penetration Testing Simulation
+
+##  Objective
+
+Simulate a basic penetration testing workflow:
+- Enumeration
+- Scanning
+- Web testing
+- Basic exploitation concepts
+
+---
+
+##  Step 1 – Reconnaissance (Nmap Scan)
+
+```bash
+nmap -sV 10.10.10.5
+
+Result:
+Port 22 → SSH (OpenSSH)
+Port 80 → HTTP (Apache)
+
+
+ Step 2 – Directory Enumeration (Gobuster)
+gobuster dir -u http://10.10.10.5 -w common.txt
+
+Result:
+/admin
+/login
+/config.php
+
+
+ Step 3 – Web Testing (Burp Suite)
+
+Example:
+
+GET /login?user=admin&pass=123
+
+
+ Step 4 – SQL Injection Testing (SQLMap)
+sqlmap -u "http://10.10.10.5/page.php?id=1" --dbs
+
+
+ Step 5 – Exploitation (Conceptual)
+use exploit/multi/handler
+
+
+ Step 6 – Password Attack
+john hashes.txt
+
+
+ Step 7 – Defensive Perspective
+Logs analysis
+Identifying suspicious activity
+
+
+Key Takeaways
+Enumeration is critical
+Web apps are common entry points
+Weak passwords are dangerous
+
+
+Disclaimer
+
+This is a simulated lab based on tools learned during Cyber Security 101.
+
+No real systems were targeted.
