@@ -1,0 +1,28 @@
+#  Offensive Security Basics
+
+##  Overview
+Introduction to attacking systems and identifying vulnerabilities.
+
+##  What I Learned
+
+- Reconnaissance and enumeration
+- Vulnerability identification
+- Basic exploitation concepts
+
+##  Tools Used
+
+### Nmap
+- Scanning open ports and services
+
+### Metasploit
+- Basic exploitation framework usage
+- Understanding payloads and sessions
+
+### Hydra
+- Password brute force basics
+
+##  Key Takeaways
+
+- Every attack starts with information gathering
+- Exploitation requires understanding the target
+- Tools are important, but methodology matters more
