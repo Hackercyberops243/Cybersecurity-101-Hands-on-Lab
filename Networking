@@ -1,0 +1,31 @@
+#  Networking Fundamentals
+
+##  Overview
+This section covers the foundational concepts of networking used in cybersecurity.
+
+##  What I Learned
+
+- OSI Model & TCP/IP basics
+- Common network protocols (HTTP, DNS, TCP, UDP)
+- Difference between secure and insecure protocols
+- Packet structure and communication flow
+
+##  Tools Used
+
+### Wireshark
+- Captured and analyzed network traffic
+- Identified protocols and packet behavior
+
+### tcpdump
+- Basic command-line packet capture
+- Filtering traffic
+
+### Nmap
+- Network scanning and host discovery
+- Port scanning and service detection
+
+##  Key Takeaways
+
+- Understanding network traffic is essential for both attack and defense
+- Enumeration is the first step in any penetration test
+- Protocol knowledge helps identify vulnerabilities
