@@ -1,0 +1,27 @@
+#  Defensive Security
+
+##  Overview
+This section focuses on detecting, analyzing, and responding to attacks.
+
+##  What I Learned
+
+- SOC fundamentals
+- Incident response basics
+- Log analysis
+
+##  Concepts & Tools
+
+### SIEM
+- Understanding how logs are collected and analyzed
+
+### Logs Analysis
+- Identifying suspicious activity
+
+### Digital Forensics
+- Basics of investigating compromised systems
+
+##  Key Takeaways
+
+- Defense is as important as offense
+- Monitoring systems is critical
+- Logs are one of the most valuable sources of information
