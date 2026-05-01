@@ -1,0 +1,36 @@
+#  Tools Overview
+
+##  Overview
+This section summarizes the main tools used throughout the learning path.
+
+##  Tools Used
+
+### Nmap
+- Network scanning and enumeration
+
+### Wireshark
+- Packet analysis
+
+### Burp Suite
+- Web request interception
+
+### Metasploit
+- Exploitation framework
+
+### SQLMap
+- SQL Injection testing
+
+### Gobuster
+- Directory brute forcing
+
+### John the Ripper
+- Password cracking
+
+### Hydra
+- Brute force attacks
+
+##  Key Takeaways
+
+- Tools are essential but require understanding
+- Each tool has a specific role in the attack/defense process
+- Combining tools is key in real-world scenarios
