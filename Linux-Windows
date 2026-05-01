@@ -1,0 +1,37 @@
+#  Linux & Windows Fundamentals
+
+##  Overview
+Understanding operating systems is essential for both offensive and defensive security.
+
+##  What I Learned
+
+### Linux
+- Basic commands (ls, cd, cat, grep)
+- File permissions and user management
+- Navigating the file system
+
+### Windows
+- Basic system structure
+- User accounts and permissions
+- Security features
+
+### Active Directory
+- Basic concepts of domain, users, and groups
+- Importance in enterprise environments
+
+##  Command Line
+
+- Windows CMD
+- PowerShell basics
+- Linux Shell usage
+
+##  Key Takeaways
+
+- Most real-world systems run on Linux or Windows
+- Misconfigurations can lead to vulnerabilities
+- Command-line skills are essential in cybersecurity
+
+
+- Most real-world systems run on Linux or Windows
+- Misconfigurations can lead to vulnerabilities
+- Command-line skills are essential in cybersecurity
