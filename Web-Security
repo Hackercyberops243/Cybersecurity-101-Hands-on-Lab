@@ -1,0 +1,29 @@
+#  Web Security Basics
+
+##  Overview
+This section focuses on how web applications work and common vulnerabilities.
+
+##  What I Learned
+
+- HTTP/HTTPS fundamentals
+- Structure of web requests and responses
+- Client-server communication
+
+##  Tools Used
+
+### Burp Suite
+- Intercepted HTTP requests
+- Analyzed headers and parameters
+
+### Gobuster
+- Directory and file discovery
+
+### SQLMap
+- Basic SQL Injection testing
+
+##  Key Takeaways
+
+- Web applications are a major attack surface
+- Input validation is critical
+- Many vulnerabilities come from poor implementation
+
